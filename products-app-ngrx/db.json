@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 12400,
+      "quantity": 100,
+      "selected": true,
+      "available": false
+    },
+    {
+      "name": "Heater",
+      "price": "5000",
+      "quantity": "1200",
+      "selected": false,
+      "available": true,
+      "id": 2
+    },
+    {
+      "name": "test",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 3
+    }
+  ]
+}
